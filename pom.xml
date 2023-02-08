@@ -13,8 +13,8 @@
         <java.version>1.8</java.version>
 <!--        <vaadin.version>14.9.5</vaadin.version>-->
         <vaadin.version>14.8.20</vaadin.version>
-		<flow.version>2.8.4</flow.version>
-		<legacy.version>8.16.0</legacy.version>
+		<flow.version>2.7.6</flow.version>
+		<legacy.version>7.7.36</legacy.version>
     </properties>
 
     <parent>
@@ -124,7 +124,7 @@
         
 		<dependency>
 				    <groupId>com.vaadin</groupId>
-				    <artifactId>mpr-v8</artifactId>
+				    <artifactId>mpr-v7</artifactId>
 				</dependency>
 		
 				<dependency>

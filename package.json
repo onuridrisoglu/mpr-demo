@@ -81,7 +81,6 @@
     "file-loader": "6.1.0",
     "html-webpack-plugin": "4.5.2",
     "lit-css-loader": "0.0.4",
-    "loader-utils": "2.0.4",
     "raw-loader": "3.1.0",
     "ts-loader": "8.0.12",
     "typescript": "4.0.3",
@@ -89,7 +88,8 @@
     "webpack-babel-multi-target-plugin": "2.5.0",
     "webpack-cli": "3.3.11",
     "webpack-dev-server": "3.11.0",
-    "webpack-merge": "4.2.2"
+    "webpack-merge": "4.2.2",
+    "loader-utils": "2.0.4"
   },
   "license": "UNLICENSED",
   "name": "no-name",
@@ -174,7 +174,6 @@
       "file-loader": "6.1.0",
       "html-webpack-plugin": "4.5.2",
       "lit-css-loader": "0.0.4",
-      "loader-utils": "2.0.4",
       "raw-loader": "3.1.0",
       "ts-loader": "8.0.12",
       "typescript": "4.0.3",
@@ -182,8 +181,9 @@
       "webpack-babel-multi-target-plugin": "2.5.0",
       "webpack-cli": "3.3.11",
       "webpack-dev-server": "3.11.0",
-      "webpack-merge": "4.2.2"
+      "webpack-merge": "4.2.2",
+      "loader-utils": "2.0.4"
     },
-    "hash": "18a0bad4e4edc6cb1bc5724fea116a67fbe80b602fe13bff631e8a8a1a87946d"
+    "hash": "2a466d89d65875837d1473798225d4814406af7ed543be4485d0a9428baab18c"
   }
 }
